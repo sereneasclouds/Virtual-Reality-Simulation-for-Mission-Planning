@@ -1,4 +1,4 @@
-# Virtual Reality Simulation for Mission Planning:RQ-180 Drone
+# Virtual Reality Simulation for Mission Planning
 
 A **Unity3D-based Virtual Reality simulation** developed as a group
 academic project at Manipal Institute of Technology for studying UAV flight
