@@ -1,7 +1,6 @@
 # Virtual Reality Simulation for Mission Planning
 
-A **Unity3D-based Virtual Reality simulation** developed as a group
-academic project at Manipal Institute of Technology for studying UAV flight
+A **Unity3D-based Virtual Reality simulation** developed for studying UAV flight
 behaviour, target identification and tracking, missile guidance,
 weapon-target assignment, and mission planning in a controlled virtual
 environment.
